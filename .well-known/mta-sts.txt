@@ -1,1 +1,4 @@
-
+version: STSv1
+mode: testing
+mx: *.ess.barracudanetworks.com
+max_age: 604800
