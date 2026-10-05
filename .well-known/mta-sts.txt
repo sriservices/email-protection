@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: *.ess.barracudanetworks.com
 max_age: 604800
